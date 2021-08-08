@@ -7,6 +7,14 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@j-t-mcc/vue3-chartjs": "^1.1.2",
+    "ar-gql": "^0.0.6",
+    "bulma": "^0.9.3",
+    "chart.js": "^3.5.0",
+    "dayjs": "^1.10.6",
+    "node-sass": "^6.0.1",
+    "sass": "^1.37.5",
+    "sass-loader": "^12.1.0",
     "vue": "^3.0.5"
   },
   "devDependencies": {
